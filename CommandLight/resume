@@ -1,0 +1,8 @@
+Exercice 1 :
+
+Ecrire un programme qui simule le comportement d'une lampe et d'un interrupteur.
+
+Les commandes allumer ou éteindre la lampe via un interrupteur.
+
+Je dois pouvoir stocker tout l'historique de mes actions. 
+Et les refaire à n'importe quel moment.
