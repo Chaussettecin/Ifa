@@ -1,0 +1,10 @@
+ Exercice 1 :
+
+Imaginons que nous ayons un colis envoyé à un bureau de poste.
+ 
+Le colis lui-même peut être commandé, puis livré à un bureau de poste et finalement reçu par un client.
+Son statut de livraison change en fonction de l'état actuel du colis (commandé, livraison, reçu).
+
+Ecrire un programme qui permet de suivre le statut de livraison du colis.
+ 
+On part du principe que votre colis est déjà commandé.
