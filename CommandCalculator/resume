@@ -1,0 +1,8 @@
+Ecrire un programme qui simule le comportement d'une calculatrice avec suite d'opérations.
+
+Exemple : 1+2+3+4*6-20
+
+
+On peut donc additionner, soustraire, diviser et multiplier.
+
+On a également la possibilité d'annuler la dernière action et de revenir en arrière.
